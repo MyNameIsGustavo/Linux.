@@ -48,3 +48,5 @@ END{
 	print "\nO NOME E O TAMANHO DO MAIOR ARQUIVO DOS REGISTROS ACEITOS = ", nomearquivo "/", maior 
 	print "\n-------------------------------------------"
 }
+
+"Comando utilizado para rodar o awk: awk -F" " -f awk202 file202"
