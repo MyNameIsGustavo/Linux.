@@ -1,0 +1,14 @@
+-- Arquivo auxiliar para a prova de AWK;
+-- Foram considerados as condições da prova de AWK;
+-- Foram considerados todos os dados de dentro do diretorio, mas apenas os primeiros foram escritos neste arquivo.
+-- Os dados foram retirados do diretório /etc. 
+
+ca-certificates.conf 5613
+lynx.cfg 162312
+nanorc 10082
+rc.conf 12373
+services 14464
+sudo_logsrvd.conf 6169
+udhcpd.conf 5306
+
+-- ls -l > /etc file202
